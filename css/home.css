@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header,
+nav {
+    width: 100%;
+}
+
+header {
+    height: fit-content;
+    min-height: 700px;
+    background: url(./image/IMG_0242.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+}
